@@ -17,4 +17,4 @@ Send a pull request to add sites to the list. Please be sure to note the types o
 @JadoJodo started this project in 2016.
 
 ### Support or Contact
-Having trouble or have questions? Are you one of the mentioned services and have recently mended your standards? Email jordan@beryl.us
+Having trouble or have questions? Are you one of the mentioned services and have recently mended your standards? Email j@hxl.io
