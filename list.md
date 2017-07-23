@@ -6,8 +6,8 @@
 * [Microsoft Live.com Accounts](https://accounts.live.com) - Doesn't allow the use of any characters that precede the @ symbol in your account email address.
 * [Realtor.com](https://realtore.com) - Doesn't allow password lengths > 15. Doesn't allow special characters.
 * [SynergyLoyalty.net](https://synergyloyalty.net) - Doesn't allow special characters [#, &].
+* [Walmart.com](http://www.walmart.com) - Doesn't allow password lengths > 12.
 * [USAA.com](https://usaa.com) - Doesn't allow password lengths > 12.
-
 
 #### State
 
@@ -17,3 +17,5 @@
   * [Intermountain Gas](https://intgas.com) - Doesn't allow password lengths > 16.
 
 #### International
+
+* [alibaba.com](https://www.alibaba.com) - Doesn't allow password lengths > 20. Doesn't allow some special characters.
